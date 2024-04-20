@@ -21,6 +21,8 @@ Responsive Design: FITGUIDE PRO is designed to be responsive, ensuring a seamles
 3. Install dependencies:
    ```
    npm install
+   or
+   npm i
    ```
 5. Run the development server:
    ```
