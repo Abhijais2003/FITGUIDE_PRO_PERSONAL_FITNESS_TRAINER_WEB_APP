@@ -14,19 +14,22 @@ Responsive Design: FITGUIDE PRO is designed to be responsive, ensuring a seamles
 
 ## Getting Started:
 
-### Clone the repository: git clone https://github.com/Abhijais2003/FITGUIDE_PRO_PERSONAL_FITNESS_TRAINER_WEB_APP.git
-### Install dependencies: npm install
-### Run the development server: npm start
+1. Clone the repository:
+   ```git clone https://github.com/Abhijais2003/FITGUIDE_PRO_PERSONAL_FITNESS_TRAINER_WEB_APP.git```
+2. Install dependencies:
+   ```npm install```
+3. Run the development server:
+   ```npm start```
 
 ## Contributing:
 
 We welcome contributions from the community to improve FITGUIDE PRO. To contribute:
 
-Fork the repository
-Create your feature branch: git checkout -b feature-name
-Commit your changes: git commit -m 'Add some feature'
-Push to the branch: git push origin feature-name
-Submit a pull request
+1. Fork the repository
+2. Create your feature branch: git checkout -b feature-name
+3. Commit your changes: git commit -m 'Add some feature'
+4. Push to the branch: git push origin feature-name
+5. Submit a pull request
 
 ## License:
 
