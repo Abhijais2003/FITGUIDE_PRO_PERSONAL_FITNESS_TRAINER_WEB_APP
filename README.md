@@ -15,11 +15,17 @@ Responsive Design: FITGUIDE PRO is designed to be responsive, ensuring a seamles
 ## Getting Started:
 
 1. Clone the repository:
-   ```git clone https://github.com/Abhijais2003/FITGUIDE_PRO_PERSONAL_FITNESS_TRAINER_WEB_APP.git```
-2. Install dependencies:
-   ```npm install```
-3. Run the development server:
-   ```npm start```
+   ```
+   git clone https://github.com/Abhijais2003/FITGUIDE_PRO_PERSONAL_FITNESS_TRAINER_WEB_APP.git
+   ```
+3. Install dependencies:
+   ```
+   npm install
+   ```
+5. Run the development server:
+   ```
+   npm start
+   ```
 
 ## Contributing:
 
